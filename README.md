@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-I am an experienced Data Engineer Developer with over 6 years of expertise in designing, developing, and optimizing ETL processes for enterprise-level data integration. I specialize in using **Ab Initio** for both batch and real-time data processing and have successfully deployed various projects to production. My technical skills extend across **cloud platforms** like **AWS** and **Snowflake**, and I am proficient in cloud migration, performance tuning, and the development of efficient data pipelines. My work focuses on transforming complex data workflows into scalable, cost-effective solutions while maintaining high standards of data quality and governance.
+I am an experienced Data Engineer Developer with over 7 years of expertise in designing, developing, and optimizing ETL processes for enterprise-level data integration. I specialize in using **Ab Initio** for both batch and real-time data processing and have successfully deployed various projects to production. My technical skills extend across **cloud platforms** like **AWS** and **Snowflake**, and I am proficient in cloud migration, performance tuning, and the development of efficient data pipelines. My work focuses on transforming complex data workflows into scalable, cost-effective solutions while maintaining high standards of data quality and governance.
 
 ---
 
